@@ -1,0 +1,4679 @@
+{
+  "schema_version": "1.0",
+  "title": "List3D — Global Spatial Technology Directory",
+  "updated_at": "2026-09-27",
+  "total": 300,
+  "categories": [
+    "3D Scan",
+    "360",
+    "VR",
+    "AR",
+    "Digital Twin",
+    "BIM",
+    "LiDAR",
+    "Photogrammetry",
+    "GIS",
+    "3D / Visualization"
+  ],
+  "entities": [
+    {
+      "id": "list3d-001",
+      "name": "StarGlobal 3D",
+      "canonical_name": "StarGlobal 3D",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "GIS"
+      ],
+      "services": "Số hóa 3D/360, bản đồ số tương tác, du lịch thông minh, bảo tồn di sản. Hơn 350 dự án tại 34 tỉnh thành.",
+      "url": "https://starglobal3d.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-002",
+      "name": "VR360 (3DVR Media)",
+      "canonical_name": "VR360 (3DVR Media)",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR",
+        "AR",
+        "GIS"
+      ],
+      "services": "Giải pháp VR, AR, 3D, 360, Map3D, Metaverse; 350+ khách hàng, 600+ dự án.",
+      "url": "https://vr360.com.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-003",
+      "name": "MOIVAO Digital Solutions",
+      "canonical_name": "MOIVAO Digital Solutions",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR",
+        "AR",
+        "Digital Twin"
+      ],
+      "services": "Tour ảo 360° & 3D, VR/AR/AI, Digital Twin, chụp ảnh & quay video 360° bằng drone.",
+      "url": "https://moivao.com.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-004",
+      "name": "DVAT Technology",
+      "canonical_name": "DVAT Technology",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "VR360 Tour trọn gói cho bất động sản, nhà máy, nhà hàng, du lịch - di tích lịch sử.",
+      "url": "https://dvat.com.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-005",
+      "name": "Lotuz Studio",
+      "canonical_name": "Lotuz Studio",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Công nghệ VR360, tự phát triển hệ thống CRM360 quản trị virtual tour bất động sản. 10+ năm hoạt động.",
+      "url": "https://lotuz.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-006",
+      "name": "VR360.ONE",
+      "canonical_name": "VR360.ONE",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Nền tảng tour ảnh 360° trọn gói, tối ưu web – mobile – VR – SEO. 126+ dự án BĐS toàn quốc.",
+      "url": "https://vr360.one",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-007",
+      "name": "Marvy Co.",
+      "canonical_name": "Marvy Co.",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "Agency AR/VR/XR hàng đầu, thành lập 2019; 200+ dự án cho Mitsubishi, AEON Mall, Acecook, VIB.",
+      "url": "https://www.marvy.studio",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-008",
+      "name": "SEAP Virtual",
+      "canonical_name": "SEAP Virtual",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Trải nghiệm không gian thực tế ảo, thiết kế website VR 360, scan chụp ảnh 360°.",
+      "url": "https://seap.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-009",
+      "name": "Vizion",
+      "canonical_name": "Vizion",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Giải pháp ảo hóa Smart 3D tour tích hợp AI, đạt giải Sao Khuê 2025.",
+      "url": "https://vizion.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-010",
+      "name": "HPT",
+      "canonical_name": "HPT",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Số hóa không gian 3D, dự án 'Số hóa 3D Khu Công viên phần mềm Quang Trung'.",
+      "url": "https://hpt.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-011",
+      "name": "Metaforce",
+      "canonical_name": "Metaforce",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "Mô hình hóa Mô phỏng 3D, VR, AR và Phát triển Phần mềm.",
+      "url": "https://metaforce.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-012",
+      "name": "GeoVR (Hatex)",
+      "canonical_name": "GeoVR (Hatex)",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "GIS"
+      ],
+      "services": "Giải pháp thực tế ảo và GIS cho nông nghiệp số, mô phỏng ảo, thiết lập chế độ VR và 3D.",
+      "url": "https://hatex.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-013",
+      "name": "SAVA META",
+      "canonical_name": "SAVA META",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Nền tảng Metaverse, phát triển sản phẩm và giải pháp công nghệ dựa trên AI, Game.",
+      "url": "https://savameta.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-014",
+      "name": "akaVerse (FPT IS)",
+      "canonical_name": "akaVerse (FPT IS)",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "AR",
+        "Digital Twin"
+      ],
+      "services": "Giải pháp đào tạo ứng dụng VR/AR, digital twin, 3D digitalization, giải Sao Khuê 2024.",
+      "url": "https://akaverse.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-015",
+      "name": "BOC Studio",
+      "canonical_name": "BOC Studio",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "CGI & Architectural Visualization Studio, chuyên 360° Interactive Virtual Tour và 360° VR Tour.",
+      "url": "https://bocvisual.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-016",
+      "name": "3DART",
+      "canonical_name": "3DART",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "LiDAR",
+        "Photogrammetry"
+      ],
+      "services": "Tiên phong số hóa di sản văn hóa Việt Nam từ 2004, ứng dụng quét 3D bằng LiDAR, Photogrammetry.",
+      "url": "https://3dart.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-017",
+      "name": "3D MASTER",
+      "canonical_name": "3D MASTER",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Đơn vị hàng đầu về dịch vụ số hóa di sản 3D, hơn 10 năm kinh nghiệm, tiên phong số hóa hiện vật bảo tàng.",
+      "url": "https://www.3dmaster.com.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-018",
+      "name": "3DScan.vn",
+      "canonical_name": "3DScan.vn",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "Photogrammetry"
+      ],
+      "services": "Dịch vụ dựng mô hình 3D bằng UAV & Laser Scan với dữ liệu chi tiết, chính xác tới từng mm.",
+      "url": "https://3dscan.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-019",
+      "name": "ViBIM",
+      "canonical_name": "ViBIM",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "BIM"
+      ],
+      "services": "Tư vấn BIM, mô hình hóa Revit BIM, quét laser 3D và reality capture.",
+      "url": "https://vibimglobal.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-020",
+      "name": "ISSOFT VINA",
+      "canonical_name": "ISSOFT VINA",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan"
+      ],
+      "services": "Công nghệ tiên phong về đo lường quang học và giải pháp quét 3D.",
+      "url": "https://vietnamindustrialfiesta.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-021",
+      "name": "AYTEC VIETNAM",
+      "canonical_name": "AYTEC VIETNAM",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Chuyển đổi bản vẽ 2D sang 3D, số hóa bản vẽ (tracing), tạo danh sách bản vẽ chi tiết.",
+      "url": "https://aytec.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-022",
+      "name": "Hà Phong Visuals",
+      "canonical_name": "Hà Phong Visuals",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Tiên phong triển khai Virtual Tour 360 cho ngành hospitality tại Việt Nam từ 2016, chuyên khách sạn, resort.",
+      "url": "https://haphong.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-023",
+      "name": "Silversea Media Việt Nam",
+      "canonical_name": "Silversea Media Việt Nam",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR",
+        "AR"
+      ],
+      "services": "Giải pháp chuyển đổi số: AR-VR, Web 360, Web 3D, triển lãm thực tế ảo, du lịch thực tế ảo.",
+      "url": "https://www.linkedin.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-024",
+      "name": "VR Tech",
+      "canonical_name": "VR Tech",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "Phát triển ứng dụng thực tế ảo VR/AR, tranh tô màu 4D KolorFun.",
+      "url": "http://vrtech.com.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-025",
+      "name": "Viewzz",
+      "canonical_name": "Viewzz",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Virtual staging, 3D rendering photorealistic, virtual tour 360°, animation kiến trúc.",
+      "url": "https://viewzz.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-026",
+      "name": "V+ Studio",
+      "canonical_name": "V+ Studio",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Virtual staging 360°, virtual tour, 3D architectural visualization, video, chỉnh sửa ảnh.",
+      "url": "https://sgpgrid.com/v-plus-studio",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-027",
+      "name": "3D VNi",
+      "canonical_name": "3D VNi",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR",
+        "AR"
+      ],
+      "services": "Công ty đầu tiên về 3D kiến trúc – bất động sản tại Việt Nam, 12 năm phát triển, giải pháp 360 và VR/AR.",
+      "url": "https://ashui.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-028",
+      "name": "Mobifone (VR360)",
+      "canonical_name": "Mobifone (VR360)",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "VR360 MobiFone: số hóa địa điểm thành không gian 3D, tour ảo chất lượng cao, hỗ trợ Web/Mobile/VR.",
+      "url": "https://solutions.mobifone.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-029",
+      "name": "VNPT (VR360)",
+      "canonical_name": "VNPT (VR360)",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Số hóa di tích, ứng dụng VietNamGo, Check in An Giang, VR Tour bảo tàng, VNPT Maps Platform.",
+      "url": "https://vnpt.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-030",
+      "name": "Portcoast",
+      "canonical_name": "Portcoast",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Số hóa 3D/360 cho công trình hạ tầng, kiến trúc; virtual tour cho dự án metro, khu công nghiệp.",
+      "url": "https://portcoast.com.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-031",
+      "name": "Visualize3D",
+      "canonical_name": "Visualize3D",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Diễn họa 3D kiến trúc nội thất và ngoại thất cao cấp, thành lập 2014.",
+      "url": "https://sgpgrid.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-032",
+      "name": "MIDORI VISUAL",
+      "canonical_name": "MIDORI VISUAL",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Thiết kế kiến trúc boutique tại Đà Nẵng, cung cấp dịch vụ 3D visualization toàn diện.",
+      "url": "https://sgpgrid.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-033",
+      "name": "MR Rendering Studio",
+      "canonical_name": "MR Rendering Studio",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Dịch vụ 3D Architectural Visualization và Real Estate 3D Rendering tại Đà Nẵng.",
+      "url": "https://mrrendering.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-034",
+      "name": "DIGISKY VISUAL",
+      "canonical_name": "DIGISKY VISUAL",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "CG visualization kiến trúc toàn cầu, 8+ năm kinh nghiệm trong marketing bất động sản.",
+      "url": "https://sgpgrid.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-035",
+      "name": "LONE RANGER CO",
+      "canonical_name": "LONE RANGER CO",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Studio thiết kế motion và visualization, chuyên 3D/2D motion design, 3D visualization, animation.",
+      "url": "https://sgpgrid.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-036",
+      "name": "VIJATMC",
+      "canonical_name": "VIJATMC",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "Outsourcing: Thiết kế 3D kiến trúc - nội thất, thiết kế công nghệ thực tế ảo VR.",
+      "url": "https://vieclam.tuoitre.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-037",
+      "name": "3DVIZ",
+      "canonical_name": "3DVIZ",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Khảo sát xây dựng, địa hình, thiết kế 3D.",
+      "url": "https://nangluchdxd.gov.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-038",
+      "name": "3F STUDIO VISUALIZATION",
+      "canonical_name": "3F STUDIO VISUALIZATION",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Thiết kế 3D, diễn họa các công trình xây dựng, thiết kế kiến trúc.",
+      "url": "https://www.masothue.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-039",
+      "name": "I8 STUDIO",
+      "canonical_name": "I8 STUDIO",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Thiết kế 3D, diễn họa các công trình xây dựng.",
+      "url": "https://www.masothue.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-040",
+      "name": "Our Inspiration Studio",
+      "canonical_name": "Our Inspiration Studio",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Đội ngũ chuyên gia 3D architectural visualization tại Đà Nẵng, hơn 10 năm kinh nghiệm.",
+      "url": "https://www.linkedin.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-041",
+      "name": "Provision VN",
+      "canonical_name": "Provision VN",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "AR/VR, nội dung số và phát triển hệ thống phần mềm, sản xuất VR, mô hình 3D.",
+      "url": "https://trangvangvietnam.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-042",
+      "name": "Smart Design Labs",
+      "canonical_name": "Smart Design Labs",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Mô hình hóa 3D (STL sang CAD) với độ chính xác cao.",
+      "url": "https://profiles.crustdata.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-043",
+      "name": "Công ty CP Di sản số Việt Nam",
+      "canonical_name": "Công ty CP Di sản số Việt Nam",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Hoạt động trong lĩnh vực di sản số, số hóa di sản văn hóa.",
+      "url": "https://www.masothue.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-044",
+      "name": "Công ty CP Công nghệ Di sản số",
+      "canonical_name": "Công ty CP Công nghệ Di sản số",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Dịch vụ công nghệ thông tin và dịch vụ liên quan đến số hóa di sản.",
+      "url": "https://infocom.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-045",
+      "name": "Công ty TNHH Di sản Văn hóa số Đại Việt",
+      "canonical_name": "Công ty TNHH Di sản Văn hóa số Đại Việt",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Số hóa di sản văn hóa, quản lý bộ sưu tập, bản sao ảo.",
+      "url": "https://infocom.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-046",
+      "name": "Công ty CP Truyền thông Di sản và Chuyển đổi số Hồng Việt",
+      "canonical_name": "Công ty CP Truyền thông Di sản và Chuyển đổi số Hồng Việt",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Số hóa di sản văn hóa, thu thập dữ liệu, quản lý bộ sưu tập, bản sao ảo.",
+      "url": "https://www.masothue.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-047",
+      "name": "AR Vietnam",
+      "canonical_name": "AR Vietnam",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "AR"
+      ],
+      "services": "Hoạt động trong lĩnh vực thương mại dịch vụ, có thể liên quan đến AR.",
+      "url": "https://infocom.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-048",
+      "name": "Công ty CP Kiến trúc AR",
+      "canonical_name": "Công ty CP Kiến trúc AR",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "AR"
+      ],
+      "services": "Hoạt động trong lĩnh vực kiến trúc, có thể ứng dụng AR.",
+      "url": "https://www.masothue.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-049",
+      "name": "VR Studio",
+      "canonical_name": "VR Studio",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "Hoạt động trong lĩnh vực game, thương mại, giải trí, có yếu tố VR.",
+      "url": "https://vietnambiz.vn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-050",
+      "name": "MyReality",
+      "canonical_name": "MyReality",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Phát triển nội dung số nhập vai và trải nghiệm thế giới ảo, thiết kế không gian 3D tương tác.",
+      "url": "https://pitchbook.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-051",
+      "name": "Matterport",
+      "canonical_name": "Matterport",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng không gian 3D hàng đầu thế giới, digital twin, 3D tour cho bất động sản. Hơn 150 quốc gia.",
+      "url": "https://matterport.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-052",
+      "name": "LCP Media",
+      "canonical_name": "LCP Media",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "TourBuilder virtual tours, drone photography, 3D renderings, video animations, virtual staging.",
+      "url": "https://www.lcpmedia.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-053",
+      "name": "Asteroom",
+      "canonical_name": "Asteroom",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Phần mềm tạo 3D virtual tour bất động sản, floor plans, tích hợp video call.",
+      "url": "https://www.asteroom.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-054",
+      "name": "GeoCV",
+      "canonical_name": "GeoCV",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Chụp 3D bằng điện thoại, tạo 3D/360-degree virtual room tours cho bất động sản.",
+      "url": "https://geocv.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-055",
+      "name": "CloudPano",
+      "canonical_name": "CloudPano",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Tạo interactive 360° virtual experiences trong vài giây, hỗ trợ VR view trên smartphone.",
+      "url": "https://www.cloudpano.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-056",
+      "name": "Virtual View",
+      "canonical_name": "Virtual View",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "LiDAR"
+      ],
+      "services": "3D LiDAR scanning, interactive virtual tours, CAD-ready floor plans.",
+      "url": "https://virtualview.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-057",
+      "name": "Invision Studio",
+      "canonical_name": "Invision Studio",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Ultra-high-resolution 360-degree virtual tours, 3D tours, architectural photography, drone.",
+      "url": "https://invisionstudio.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-058",
+      "name": "RP360 Virtual Tours",
+      "canonical_name": "RP360 Virtual Tours",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Matterport 3D Virtual Tour, Google Street View 360, real estate & retail.",
+      "url": "https://rp360virtualtours.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-059",
+      "name": "Interface Multimedia",
+      "canonical_name": "Interface Multimedia",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Leading digital 360 VR panoramic experience company, 3D animation, 4D construction.",
+      "url": "https://www.ifmm.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-060",
+      "name": "Mass Interact",
+      "canonical_name": "Mass Interact",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR",
+        "AR"
+      ],
+      "services": "Google-trusted agency, 360 virtual tours, AR/VR applications, immersive installations.",
+      "url": "https://massinteract.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-061",
+      "name": "Circlescapes Virtual Tours",
+      "canonical_name": "Circlescapes Virtual Tours",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "360-degree virtual tours cho trường học, đại học, senior living communities.",
+      "url": "https://circlescapes.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-062",
+      "name": "DreamShow VR",
+      "canonical_name": "DreamShow VR",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "Immersive tours cho bất động sản, hospitality, business marketing.",
+      "url": "https://dreamshowvr.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-063",
+      "name": "Virtual Grounds Interactive",
+      "canonical_name": "Virtual Grounds Interactive",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "AR"
+      ],
+      "services": "Interactive maps, virtual tours, AR experiences (WebAR, Social AR) cho cultural projects.",
+      "url": "https://virtualgrounds.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-064",
+      "name": "VR Wizards",
+      "canonical_name": "VR Wizards",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Interactive virtual experiences, 360 videos, 360 photography, 360 drone shots.",
+      "url": "https://vrwizards.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-065",
+      "name": "IGIVU",
+      "canonical_name": "IGIVU",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "Full-service XR agency, VR solutions cho events, marketing, enterprise.",
+      "url": "https://igivu.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-066",
+      "name": "Multivista",
+      "canonical_name": "Multivista",
+      "country": "Mỹ/Canada",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360",
+        "Photogrammetry"
+      ],
+      "services": "Construction site documentation: 3D laser scanning, 360-degree photography, UAV/Drones, webcams.",
+      "url": "https://www.multivista.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-067",
+      "name": "Metareal",
+      "canonical_name": "Metareal",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "Digital Twin"
+      ],
+      "services": "Digital twins, 3D virtual tours, floorplans, 3D models từ 360 photos.",
+      "url": "https://metareal.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-068",
+      "name": "Smarter Spaces",
+      "canonical_name": "Smarter Spaces",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "LiDAR"
+      ],
+      "services": "High-resolution LiDAR scanning, customized virtual tours cho tourism, heritage, institutional.",
+      "url": "https://smarterspaces.ca",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-069",
+      "name": "SolidCAD",
+      "canonical_name": "SolidCAD",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "VR consulting, immersive virtual tours of architectural spaces trong 3D environments.",
+      "url": "https://www.solidcad.ca",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-070",
+      "name": "iGUIDE (Planitar)",
+      "canonical_name": "iGUIDE (Planitar)",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Proprietary camera & software platform, 3D virtual tours và property data.",
+      "url": "https://youriguide.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-071",
+      "name": "UTAG 3D VISION",
+      "canonical_name": "UTAG 3D VISION",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360",
+        "Digital Twin",
+        "BIM"
+      ],
+      "services": "Matterport virtual tours, 3D scanning, digital twin, Scan-to-BIM tại Québec.",
+      "url": "https://utag3dvision.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-072",
+      "name": "Point3D Commercial Imaging",
+      "canonical_name": "Point3D Commercial Imaging",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360"
+      ],
+      "services": "Toronto Matterport Virtual Tours & 3D Laser Scanning.",
+      "url": "https://point3d.ca",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-073",
+      "name": "Poppr",
+      "canonical_name": "Poppr",
+      "country": "Bỉ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "3D modeling, 360-degree photography/video, WebGL, WebVR, WebAR. Virtual tours cho Center Parcs.",
+      "url": "https://poppr.be",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-074",
+      "name": "rooom",
+      "canonical_name": "rooom",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "Enterprise metaverse platform: 2D, 3D, AR & VR experiences. Khách hàng: Porsche, Deutsche Telekom, DHL.",
+      "url": "https://www.rooom.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-075",
+      "name": "Inreal Technologies",
+      "canonical_name": "Inreal Technologies",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Virtual tours cho planned buildings và refurbishment projects từ blueprints.",
+      "url": "https://inreal.de",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-076",
+      "name": "Biganto",
+      "canonical_name": "Biganto",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "Digital Twin"
+      ],
+      "services": "Virtual tours bất động sản đang xây, digital doubles của construction projects.",
+      "url": "https://biganto.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-077",
+      "name": "Metrika360",
+      "canonical_name": "Metrika360",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360",
+        "Digital Twin"
+      ],
+      "services": "3D laser scanning, building digitization, digital twins, virtual tours tự động cập nhật.",
+      "url": "https://metrika360.de",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-078",
+      "name": "F7 Digital GmbH",
+      "canonical_name": "F7 Digital GmbH",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360"
+      ],
+      "services": "Digital inventory recording, laser scanning, realistic renderings, 360° panoramas và virtual tours.",
+      "url": "https://f7digital.de",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-079",
+      "name": "LeadingVision GmbH",
+      "canonical_name": "LeadingVision GmbH",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "Digitalisierung von Gebäuden, VR environments, 3D-Scantechnologien.",
+      "url": "https://leadingvision.de",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-080",
+      "name": "VENTIIS",
+      "canonical_name": "VENTIIS",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360",
+        "Digital Twin",
+        "Photogrammetry"
+      ],
+      "services": "Digital twins và virtual tours tại Stuttgart, 3D laser scanning và drone surveying.",
+      "url": "https://ventiis.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-081",
+      "name": "X-Verse GmbH",
+      "canonical_name": "X-Verse GmbH",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Photometric data collection, digital models, virtual tours cho real estate management.",
+      "url": "https://x-verse.de",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-082",
+      "name": "Steinbeis Transfer Center",
+      "canonical_name": "Steinbeis Transfer Center",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR",
+        "LiDAR"
+      ],
+      "services": "Technical visualisations, immersive tours, 360-degree photos/videos, LiDAR scanning.",
+      "url": "https://www.steinbeis.de",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-083",
+      "name": "Winobo",
+      "canonical_name": "Winobo",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR",
+        "Digital Twin"
+      ],
+      "services": "Digital twins và immersive virtual tours để bảo tồn architectural treasures.",
+      "url": "https://winobo.de",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-084",
+      "name": "360 Virtual Tour Co.",
+      "canonical_name": "360 Virtual Tour Co.",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR",
+        "Digital Twin"
+      ],
+      "services": "UK-based, high-resolution virtual tours, digital twins, Google Virtual Tours, VR content.",
+      "url": "https://360virtualtour.co",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-085",
+      "name": "Scene3D",
+      "canonical_name": "Scene3D",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "3D virtual tours cho residential, commercial, education, hospitality, museum.",
+      "url": "https://scene3d.co.uk",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-086",
+      "name": "Dreamcatcher3D",
+      "canonical_name": "Dreamcatcher3D",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "3D property scans, virtual tours, real estate platforms, property video creation.",
+      "url": "https://dreamcatcher3d.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-087",
+      "name": "VMR Draughting",
+      "canonical_name": "VMR Draughting",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "High-quality virtual tours using Matterport technology, on-site across the UK.",
+      "url": "https://www.vmrdraughting.co.uk",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-088",
+      "name": "Pixality",
+      "canonical_name": "Pixality",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360"
+      ],
+      "services": "3D space capture, virtual tour creation, 3D scanning, CAD plans, 3D models.",
+      "url": "https://pixality.co.uk",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-089",
+      "name": "Apollo3D / Infinity Virtual Tours",
+      "canonical_name": "Apollo3D / Infinity Virtual Tours",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Hyper-accurate digital scanning, virtual tour technology, Otley-based.",
+      "url": "https://www.apollo3d.co.uk",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-090",
+      "name": "Vuabl",
+      "canonical_name": "Vuabl",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Immersive 360° virtual tours và VR experiences, equipment packages.",
+      "url": "https://vuabl.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-091",
+      "name": "Eyespy360",
+      "canonical_name": "Eyespy360",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Virtual tour platform: 3D modeling, floor planning, virtual staging, video calls.",
+      "url": "https://eyespy360.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-092",
+      "name": "360 Virtual Tour Company",
+      "canonical_name": "360 Virtual Tour Company",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "15+ năm kinh nghiệm, world's first B Corp certified virtual tour agency.",
+      "url": "https://www.virtualtourcompany.co.uk",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-093",
+      "name": "JUUMO",
+      "canonical_name": "JUUMO",
+      "country": "Pháp",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Startup tại Rouen, immersive platforms, virtual tours 360° cho Hôtel du Département.",
+      "url": "https://juumo.fr",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-094",
+      "name": "vEdge",
+      "canonical_name": "vEdge",
+      "country": "Pháp",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Solutions integrator, interactive virtual tours (4K HDR), 3D virtual reality puzzles.",
+      "url": "https://vedge.fr",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-095",
+      "name": "MUSE+",
+      "canonical_name": "MUSE+",
+      "country": "Pháp",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "Cultural company, exhibition tours in HD streaming and VR, immersive films cho museums.",
+      "url": "https://museplus.fr",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-096",
+      "name": "HD MEDIA",
+      "canonical_name": "HD MEDIA",
+      "country": "Pháp",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Leader de la visite virtuelle en France, based in Grenoble, e-commerce to community management.",
+      "url": "https://hdmedia.fr",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-097",
+      "name": "KEYVEO",
+      "canonical_name": "KEYVEO",
+      "country": "Pháp",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Immersive Technologies: Mixed Realities, Web3D/4D, 3D Configurators, KVT Virtual Tour Platform.",
+      "url": "https://keyveo.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-098",
+      "name": "Wintor",
+      "canonical_name": "Wintor",
+      "country": "Hà Lan",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "AR"
+      ],
+      "services": "No-code platform tạo AR tours, location-based augmented reality accessible via mobile.",
+      "url": "https://wintor.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-099",
+      "name": "Panora Studio",
+      "canonical_name": "Panora Studio",
+      "country": "Hà Lan",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "Matterport 3D tours cho hotels, event venues, real estate, museums, retail.",
+      "url": "https://panorastudio.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-100",
+      "name": "Dils",
+      "canonical_name": "Dils",
+      "country": "Hà Lan",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "CGI rendering, animations, video, immersive experiences, virtual reality cho real estate.",
+      "url": "https://dils.nl",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-101",
+      "name": "VR Owl",
+      "canonical_name": "VR Owl",
+      "country": "Hà Lan",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "10 năm kinh nghiệm VR/AR, complete solutions từ concept to execution.",
+      "url": "https://vrowl.io",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-102",
+      "name": "Multivision 3D",
+      "canonical_name": "Multivision 3D",
+      "country": "Hà Lan",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "3D visualization services cho architecture và design industry.",
+      "url": "https://multivision3d.nl",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-103",
+      "name": "Visitas virtuales",
+      "canonical_name": "Visitas virtuales",
+      "country": "Tây Ban Nha",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "AR",
+        "Digital Twin"
+      ],
+      "services": "360-degree photos/videos, virtual & augmented reality, 3D recreations, digital twins từ 2001.",
+      "url": "https://visitasvirtuales.es",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-104",
+      "name": "Plus Render",
+      "canonical_name": "Plus Render",
+      "country": "Tây Ban Nha",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Virtual tours, 360° experiences, architectural visualization, parametric 3D design.",
+      "url": "https://plusrender.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-105",
+      "name": "TwoReality (MILA SOLUTIONS)",
+      "canonical_name": "TwoReality (MILA SOLUTIONS)",
+      "country": "Tây Ban Nha",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "3D experiences, 3D virtual tour, VR actions cho companies từ 2010.",
+      "url": "https://tworeality.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-106",
+      "name": "Somia Digital",
+      "canonical_name": "Somia Digital",
+      "country": "Tây Ban Nha",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "360° virtual tours với Matterport cho Girona, Barcelona, Costa Brava.",
+      "url": "https://somiadigital.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-107",
+      "name": "Behind Pictures",
+      "canonical_name": "Behind Pictures",
+      "country": "Tây Ban Nha",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "360° Interactive & 3D Tour Studio in Barcelona, architectural renders, 3D animation.",
+      "url": "https://behindpictures.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-108",
+      "name": "VirtuAlp",
+      "canonical_name": "VirtuAlp",
+      "country": "Ý",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "Startup innovativa, immersive VR solutions cho outdoor experiences, territori e luoghi naturali.",
+      "url": "https://virtualp.it",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-109",
+      "name": "Unrealestate Studio",
+      "canonical_name": "Unrealestate Studio",
+      "country": "Ý",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "3D architectural technology, virtual tours, interactive tours in VR, 3D interior visualization.",
+      "url": "https://unrealestate.it",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-110",
+      "name": "NoZone",
+      "canonical_name": "NoZone",
+      "country": "Ý",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Rendering fotorealistici, virtual tour, plastici per edilizia e nautica từ anni '90.",
+      "url": "https://nozone.it",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-111",
+      "name": "Virtual Tour Milano",
+      "canonical_name": "Virtual Tour Milano",
+      "country": "Ý",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Modelli 3D navigabili, tecnologia MATTERPORT®, immersive experience.",
+      "url": "https://virtualtourmilano.it",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-112",
+      "name": "WOLF Visualization Agency",
+      "canonical_name": "WOLF Visualization Agency",
+      "country": "Ý",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "3D Modelling, Render, Video Animation, Virtual Tour, Drone Shooting, Art Direction.",
+      "url": "https://wolfvisualization.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-113",
+      "name": "Northman VR",
+      "canonical_name": "Northman VR",
+      "country": "Thụy Điển",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "VR/360° content services, virtual tours, 3D, Stockholm-based từ 2018.",
+      "url": "https://northmanvr.se",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-114",
+      "name": "Diakrit",
+      "canonical_name": "Diakrit",
+      "country": "Thụy Điển",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "2D/3D floor plans, virtual tours, digital renovating tools, video cho real estate agents.",
+      "url": "https://diakrit.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-115",
+      "name": "Area360 AB",
+      "canonical_name": "Area360 AB",
+      "country": "Thụy Điển",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360"
+      ],
+      "services": "3D-scanning of structures and environments cho real estate, construction, virtual tours.",
+      "url": "https://area360.se",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-116",
+      "name": "Visual Space",
+      "canonical_name": "Visual Space",
+      "country": "Thụy Điển",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360",
+        "Digital Twin"
+      ],
+      "services": "3D scanning, digital twin creation, virtual tours cho real estate, interactive applications.",
+      "url": "https://visualspace.se",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-117",
+      "name": "Objekt360",
+      "canonical_name": "Objekt360",
+      "country": "Thụy Điển",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Largest supplier of 3D tours in Nordic region, introduced 3D tour to Swedish market in 2015.",
+      "url": "https://objekt360.se",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-118",
+      "name": "Avocado360",
+      "canonical_name": "Avocado360",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Swiss studio for 360° video, VR films, immersive experiences, virtual tours since 2012.",
+      "url": "https://avocado360.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-119",
+      "name": "Clever-Click GmbH",
+      "canonical_name": "Clever-Click GmbH",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Swiss provider of virtual 360° tours, 16K HDR image quality, Google Maps tours.",
+      "url": "https://clever-click.ch",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-120",
+      "name": "Immersive Business Advantage",
+      "canonical_name": "Immersive Business Advantage",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Expert in immersive virtual tours since 2014, 600+ visits realised across Switzerland.",
+      "url": "https://immersive-business.ch",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-121",
+      "name": "Klapty",
+      "canonical_name": "Klapty",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Create and share virtual tours, 360° VR and 3D, Lausanne-based.",
+      "url": "https://klapty.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-122",
+      "name": "GRAPHEX",
+      "canonical_name": "GRAPHEX",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Photorealistic 3D visualizations for architecture, 360° virtual tours, 3D animations, Zurich.",
+      "url": "https://graphex.ch",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-123",
+      "name": "3DNest Inc.",
+      "canonical_name": "3DNest Inc.",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Beijing-based từ 2014, 360-degree spatial photos, 3D models of sightseeing spots, campus tours.",
+      "url": "https://3dnest.cn",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-124",
+      "name": "THE FUTURE 3D",
+      "canonical_name": "THE FUTURE 3D",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360",
+        "LiDAR",
+        "Photogrammetry",
+        "GIS"
+      ],
+      "services": "3D laser scanning, drone surveying, LiDAR mapping, virtual tours tại Shanghai và Beijing hubs.",
+      "url": "https://www.thefuture3d.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-125",
+      "name": "Zhongqu Technology (众趣)",
+      "canonical_name": "Zhongqu Technology (众趣)",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "Digital Twin"
+      ],
+      "services": "VR digital twin cloud service, AI 3D machine vision, 3D space digitization, VR看房.",
+      "url": "https://www.zhongqu.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-126",
+      "name": "Hangzhou Gewen Digital (杭州格文)",
+      "canonical_name": "Hangzhou Gewen Digital (杭州格文)",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Online 3D product display, 3D virtual space exhibition, 360-degree panorama capture.",
+      "url": "https://www.gewen.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-127",
+      "name": "深圳市花生数字多媒体",
+      "canonical_name": "深圳市花生数字多媒体",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "AI实景扫描与还原系统, 1:1数字化复刻, immersive remote inspection.",
+      "url": "https://www.huasheng.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-128",
+      "name": "江苏三人行数据技术",
+      "canonical_name": "江苏三人行数据技术",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D Scan",
+        "360",
+        "VR",
+        "BIM",
+        "Photogrammetry"
+      ],
+      "services": "High-precision 3D laser scanning, UAV oblique photography, 3DGIS+BIM, VR panorama.",
+      "url": "https://www.sanrenxing.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-129",
+      "name": "如你所视",
+      "canonical_name": "如你所视",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "Digital space comprehensive solutions, VR & AI, spatial information digitization.",
+      "url": "https://www.xslpt.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-130",
+      "name": "InstaVR",
+      "canonical_name": "InstaVR",
+      "country": "Nhật Bản",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Web-based platform, virtual tours and product showcases, real estate, tourism, automotive.",
+      "url": "https://instavr.co",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-131",
+      "name": "MP-Strategy",
+      "canonical_name": "MP-Strategy",
+      "country": "Nhật Bản",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "Corporate virtual tour exhibition, factory tours, VR/virtual tour production.",
+      "url": "https://mp-strategy.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-132",
+      "name": "株式会社ウィローズ",
+      "canonical_name": "株式会社ウィローズ",
+      "country": "Nhật Bản",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "3DCG VR映像制作, 建築CGパース, バーチャルモデルハウス, VR housing exhibition.",
+      "url": "https://willows.co.jp",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-133",
+      "name": "株式会社シンボシ",
+      "canonical_name": "株式会社シンボシ",
+      "country": "Nhật Bản",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "360°VR動画制作, バーチャルツアー制作, tourism, education, government, corporate VR content.",
+      "url": "https://shinboshi.co.jp",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-134",
+      "name": "合同会社Asobe",
+      "canonical_name": "合同会社Asobe",
+      "country": "Nhật Bản",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "VRツアー, デジタルツイン, AI教育, 360度カメラ撮影, 3Dモデル化.",
+      "url": "https://asobe.jp",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-135",
+      "name": "Cupix Inc",
+      "canonical_name": "Cupix Inc",
+      "country": "Hàn Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "Digital Twin",
+        "BIM"
+      ],
+      "services": "Cloud-based 3D virtual tour software, digital twin technology, Google Maps và BIM integration.",
+      "url": "https://cupix.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-136",
+      "name": "Visit",
+      "canonical_name": "Visit",
+      "country": "Hàn Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "VR content technology, virtual tours, Wonju-si-based từ 2018.",
+      "url": "https://visitinc.kr",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-137",
+      "name": "Parallel Space",
+      "canonical_name": "Parallel Space",
+      "country": "Hàn Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "3D automatic conversion solution, virtual tours cho real estate, Busan-based.",
+      "url": "https://parallelspace.kr",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-138",
+      "name": "Budify",
+      "canonical_name": "Budify",
+      "country": "Hàn Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "Travel experiences through VR and AR in tourism industry, Seoul-based.",
+      "url": "https://budify.kr",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-139",
+      "name": "MMP Co., Ltd.",
+      "canonical_name": "MMP Co., Ltd.",
+      "country": "Hàn Quốc",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "VR"
+      ],
+      "services": "Tourism and educational VR content, 240+ famous tourist attractions and historical sites.",
+      "url": "https://mmp.co.kr",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-140",
+      "name": "THE RED MARKER",
+      "canonical_name": "THE RED MARKER",
+      "country": "Singapore",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Google's chosen partner for virtual tours, Google StreetView inside businesses.",
+      "url": "https://theredmarker.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-141",
+      "name": "Bevous Media",
+      "canonical_name": "Bevous Media",
+      "country": "Singapore",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "360 content provider, Google accredited partner, VR, Google 360 Virtual Tours.",
+      "url": "https://bevousmedia.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-142",
+      "name": "SIXTREES VIZ COMMS",
+      "canonical_name": "SIXTREES VIZ COMMS",
+      "country": "Singapore",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "3D visualization firm, immersive virtual tours, interactive solutions, 10+ years experience.",
+      "url": "https://sixtrees.com.sg",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-143",
+      "name": "Titi",
+      "canonical_name": "Titi",
+      "country": "Singapore",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "VR tour services, 720 VR virtual tour platform, virtual staging.",
+      "url": "https://titi.sg",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-144",
+      "name": "Chio Space",
+      "canonical_name": "Chio Space",
+      "country": "Singapore",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "360° and 3D virtual tour services, Google Virtual Tour, interior/architecture photography.",
+      "url": "https://chiospace.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-145",
+      "name": "Haroko Studio",
+      "canonical_name": "Haroko Studio",
+      "country": "Singapore",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "360 degree Virtual Tour photography, Gigapixel photography, 360 degree video post-production.",
+      "url": "https://harokostudio.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-146",
+      "name": "TUBEAR",
+      "canonical_name": "TUBEAR",
+      "country": "Singapore",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Real estate photography, 3D virtual tours, 360-degree virtual tours, drone services.",
+      "url": "https://tubear.sg",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-147",
+      "name": "Adostrophe",
+      "canonical_name": "Adostrophe",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Matterport 3D virtual tour scanning services in India, Bangalore-based.",
+      "url": "https://adostrophe.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-148",
+      "name": "FUTÉ SERVICES",
+      "canonical_name": "FUTÉ SERVICES",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "16 years of 3D Architectural Animation, interactive virtual tours, 3D floor plans, 360 tours.",
+      "url": "https://futeservices.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-149",
+      "name": "VirTour",
+      "canonical_name": "VirTour",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR",
+        "Digital Twin"
+      ],
+      "services": "Immersive VR experiences, 3D walkthroughs, 360° virtual tours, digital twin creation.",
+      "url": "https://virtour.in",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-150",
+      "name": "SmartVizX",
+      "canonical_name": "SmartVizX",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360"
+      ],
+      "services": "Interactive virtual environments, visualizations, 360 photography, 3D floor plans, virtual tours.",
+      "url": "https://smartvizx.com",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-151",
+      "name": "Dawn Digital",
+      "canonical_name": "Dawn Digital",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "3D / Visualization"
+      ],
+      "services": "World-leading 3D architectural visualization, architectural walkthroughs, real estate developers.",
+      "url": "https://dawndigital.in",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-152",
+      "name": "Golden Globe Technologies",
+      "canonical_name": "Golden Globe Technologies",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "company",
+      "categories": [
+        "360",
+        "VR"
+      ],
+      "services": "AI-enabled 360° virtual tour production, VR ready virtual tours, New Delhi-based.",
+      "url": "https://ggtech.in",
+      "source_group": "legacy-152",
+      "verified": false
+    },
+    {
+      "id": "list3d-153",
+      "name": "FARO Technologies",
+      "canonical_name": "FARO Technologies",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.faro.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-154",
+      "name": "Leica Geosystems",
+      "canonical_name": "Leica Geosystems",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://leica-geosystems.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-155",
+      "name": "Hexagon",
+      "canonical_name": "Hexagon",
+      "country": "Thụy Điển",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://hexagon.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-156",
+      "name": "Trimble",
+      "canonical_name": "Trimble",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.trimble.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-157",
+      "name": "Topcon Positioning Systems",
+      "canonical_name": "Topcon Positioning Systems",
+      "country": "Nhật Bản/Mỹ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.topconpositioning.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-158",
+      "name": "Creaform",
+      "canonical_name": "Creaform",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.creaform3d.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-159",
+      "name": "Artec 3D",
+      "canonical_name": "Artec 3D",
+      "country": "Luxembourg",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.artec3d.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-160",
+      "name": "SHINING 3D",
+      "canonical_name": "SHINING 3D",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.shining3d.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-161",
+      "name": "ZEISS Industrial Quality Solutions",
+      "canonical_name": "ZEISS Industrial Quality Solutions",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.zeiss.com/metrology",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-162",
+      "name": "Nikon Metrology",
+      "canonical_name": "Nikon Metrology",
+      "country": "Nhật Bản",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://industry.nikon.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-163",
+      "name": "RIEGL",
+      "canonical_name": "RIEGL",
+      "country": "Áo",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.riegl.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-164",
+      "name": "Zoller + Fröhlich",
+      "canonical_name": "Zoller + Fröhlich",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.zf-laser.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-165",
+      "name": "Teledyne Optech",
+      "canonical_name": "Teledyne Optech",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.teledyneoptech.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-166",
+      "name": "Maptek",
+      "canonical_name": "Maptek",
+      "country": "Úc",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.maptek.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-167",
+      "name": "SICK",
+      "canonical_name": "SICK",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.sick.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-168",
+      "name": "Renishaw",
+      "canonical_name": "Renishaw",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.renishaw.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-169",
+      "name": "NavVis",
+      "canonical_name": "NavVis",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.navvis.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-170",
+      "name": "Emesent",
+      "canonical_name": "Emesent",
+      "country": "Úc",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.emesent.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-171",
+      "name": "Exyn Technologies",
+      "canonical_name": "Exyn Technologies",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.exyn.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-172",
+      "name": "Kaarta",
+      "canonical_name": "Kaarta",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.kaarta.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-173",
+      "name": "GreenValley International",
+      "canonical_name": "GreenValley International",
+      "country": "Mỹ/Trung Quốc",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.greenvalleyintl.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-174",
+      "name": "Phoenix LiDAR Systems",
+      "canonical_name": "Phoenix LiDAR Systems",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.phoenixlidar.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-175",
+      "name": "YellowScan",
+      "canonical_name": "YellowScan",
+      "country": "Pháp",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.yellowscan.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-176",
+      "name": "ROCK Robotic",
+      "canonical_name": "ROCK Robotic",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.rockrobotic.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-177",
+      "name": "CHCNAV",
+      "canonical_name": "CHCNAV",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.chcnav.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-178",
+      "name": "GeoCue",
+      "canonical_name": "GeoCue",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://geocue.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-179",
+      "name": "Ouster",
+      "canonical_name": "Ouster",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://ouster.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-180",
+      "name": "Revopoint",
+      "canonical_name": "Revopoint",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "vendor",
+      "categories": [
+        "3D Scan",
+        "LiDAR"
+      ],
+      "services": "3D laser scanning, LiDAR, reality capture, point cloud và đo đạc không gian.",
+      "url": "https://www.revopoint3d.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-181",
+      "name": "Pix4D",
+      "canonical_name": "Pix4D",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.pix4d.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-182",
+      "name": "Agisoft",
+      "canonical_name": "Agisoft",
+      "country": "Nga",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.agisoft.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-183",
+      "name": "RealityScan (Epic Games)",
+      "canonical_name": "RealityScan (Epic Games)",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.realityscan.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-184",
+      "name": "3Dflow",
+      "canonical_name": "3Dflow",
+      "country": "Ý",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.3dflow.net",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-185",
+      "name": "DroneDeploy",
+      "canonical_name": "DroneDeploy",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.dronedeploy.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-186",
+      "name": "Propeller Aero",
+      "canonical_name": "Propeller Aero",
+      "country": "Úc",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.propelleraero.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-187",
+      "name": "DJI Enterprise",
+      "canonical_name": "DJI Enterprise",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://enterprise.dji.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-188",
+      "name": "Wingtra",
+      "canonical_name": "Wingtra",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://wingtra.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-189",
+      "name": "AgEagle Aerial Systems",
+      "canonical_name": "AgEagle Aerial Systems",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://ageagle.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-190",
+      "name": "SimActive",
+      "canonical_name": "SimActive",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.simactive.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-191",
+      "name": "Skycatch",
+      "canonical_name": "Skycatch",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://skycatch.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-192",
+      "name": "Datumate",
+      "canonical_name": "Datumate",
+      "country": "Israel",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.datumate.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-193",
+      "name": "PhotoModeler Technologies",
+      "canonical_name": "PhotoModeler Technologies",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.photomodeler.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-194",
+      "name": "Virtual Surveyor",
+      "canonical_name": "Virtual Surveyor",
+      "country": "Bỉ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.virtual-surveyor.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-195",
+      "name": "Aerometrex",
+      "canonical_name": "Aerometrex",
+      "country": "Úc",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://aerometrex.com.au",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-196",
+      "name": "Vexcel Imaging",
+      "canonical_name": "Vexcel Imaging",
+      "country": "Áo",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.vexcel-imaging.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-197",
+      "name": "Phase One",
+      "canonical_name": "Phase One",
+      "country": "Đan Mạch",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.phaseone.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-198",
+      "name": "Skyline Software Systems",
+      "canonical_name": "Skyline Software Systems",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "Photogrammetry",
+        "3D Scan"
+      ],
+      "services": "Photogrammetry, drone mapping, mô hình 3D, orthomosaic và xử lý ảnh không gian.",
+      "url": "https://www.skylinesoft.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-199",
+      "name": "Siemens",
+      "canonical_name": "Siemens",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.siemens.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-200",
+      "name": "Dassault Systèmes",
+      "canonical_name": "Dassault Systèmes",
+      "country": "Pháp",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.3ds.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-201",
+      "name": "Microsoft",
+      "canonical_name": "Microsoft",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.microsoft.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-202",
+      "name": "Amazon Web Services",
+      "canonical_name": "Amazon Web Services",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://aws.amazon.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-203",
+      "name": "NVIDIA",
+      "canonical_name": "NVIDIA",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.nvidia.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-204",
+      "name": "PTC",
+      "canonical_name": "PTC",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.ptc.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-205",
+      "name": "Autodesk",
+      "canonical_name": "Autodesk",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.autodesk.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-206",
+      "name": "Bentley Systems",
+      "canonical_name": "Bentley Systems",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.bentley.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-207",
+      "name": "GE Vernova",
+      "canonical_name": "GE Vernova",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.gevernova.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-208",
+      "name": "AVEVA",
+      "canonical_name": "AVEVA",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.aveva.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-209",
+      "name": "Schneider Electric",
+      "canonical_name": "Schneider Electric",
+      "country": "Pháp",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.se.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-210",
+      "name": "ABB",
+      "canonical_name": "ABB",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://global.abb",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-211",
+      "name": "Rockwell Automation",
+      "canonical_name": "Rockwell Automation",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.rockwellautomation.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-212",
+      "name": "Emerson",
+      "canonical_name": "Emerson",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.emerson.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-213",
+      "name": "Honeywell",
+      "canonical_name": "Honeywell",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.honeywell.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-214",
+      "name": "Bosch",
+      "canonical_name": "Bosch",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.bosch.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-215",
+      "name": "Cognite",
+      "canonical_name": "Cognite",
+      "country": "Na Uy",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.cognite.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-216",
+      "name": "Litmus Automation",
+      "canonical_name": "Litmus Automation",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://litmus.io",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-217",
+      "name": "Willow",
+      "canonical_name": "Willow",
+      "country": "Úc",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://www.willowinc.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-218",
+      "name": "Invicara",
+      "canonical_name": "Invicara",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://invicara.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-219",
+      "name": "Đất Vàng Việt Nam",
+      "canonical_name": "Đất Vàng Việt Nam",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://datvangvietnam.vn",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-220",
+      "name": "TDM Việt Nam",
+      "canonical_name": "TDM Việt Nam",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "platform",
+      "categories": [
+        "Digital Twin"
+      ],
+      "services": "Nền tảng digital twin, mô phỏng, IoT/asset lifecycle và vận hành tài sản số.",
+      "url": "https://tdm.vn",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-221",
+      "name": "Nemetschek Group",
+      "canonical_name": "Nemetschek Group",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.nemetschek.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-222",
+      "name": "Graphisoft",
+      "canonical_name": "Graphisoft",
+      "country": "Hungary",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.graphisoft.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-223",
+      "name": "ALLPLAN",
+      "canonical_name": "ALLPLAN",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.allplan.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-224",
+      "name": "Vectorworks",
+      "canonical_name": "Vectorworks",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.vectorworks.net",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-225",
+      "name": "Solibri",
+      "canonical_name": "Solibri",
+      "country": "Phần Lan",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.solibri.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-226",
+      "name": "Bluebeam",
+      "canonical_name": "Bluebeam",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.bluebeam.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-227",
+      "name": "ACCA Software",
+      "canonical_name": "ACCA Software",
+      "country": "Ý",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.accasoftware.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-228",
+      "name": "RIB Software",
+      "canonical_name": "RIB Software",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.rib-software.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-229",
+      "name": "Procore Technologies",
+      "canonical_name": "Procore Technologies",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.procore.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-230",
+      "name": "Revizto",
+      "canonical_name": "Revizto",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://revizto.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-231",
+      "name": "Dalux",
+      "canonical_name": "Dalux",
+      "country": "Đan Mạch",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.dalux.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-232",
+      "name": "Asite",
+      "canonical_name": "Asite",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.asite.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-233",
+      "name": "BIMobject",
+      "canonical_name": "BIMobject",
+      "country": "Thụy Điển",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.bimobject.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-234",
+      "name": "BIMcollab",
+      "canonical_name": "BIMcollab",
+      "country": "Hà Lan",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.bimcollab.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-235",
+      "name": "dRofus",
+      "canonical_name": "dRofus",
+      "country": "Na Uy",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.drofus.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-236",
+      "name": "BEXEL Consulting",
+      "canonical_name": "BEXEL Consulting",
+      "country": "Serbia",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://bexelconsulting.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-237",
+      "name": "Newforma",
+      "canonical_name": "Newforma",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.newforma.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-238",
+      "name": "Buildots",
+      "canonical_name": "Buildots",
+      "country": "Israel/Anh",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://buildots.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-239",
+      "name": "OpenSpace",
+      "canonical_name": "OpenSpace",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.openspace.ai",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-240",
+      "name": "Hilti Fieldwire",
+      "canonical_name": "Hilti Fieldwire",
+      "country": "Thụy Sĩ/Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.fieldwire.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-241",
+      "name": "Bricsys",
+      "canonical_name": "Bricsys",
+      "country": "Bỉ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.bricsys.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-242",
+      "name": "GRAITEC",
+      "canonical_name": "GRAITEC",
+      "country": "Pháp",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://graitec.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-243",
+      "name": "Pinnacle Infotech",
+      "canonical_name": "Pinnacle Infotech",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://pinnacleinfotech.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-244",
+      "name": "VIATechnik",
+      "canonical_name": "VIATechnik",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "software",
+      "categories": [
+        "BIM"
+      ],
+      "services": "BIM/AEC, coordination, common data environment, scan-to-BIM và quản lý vòng đời công trình.",
+      "url": "https://www.viatechnik.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-245",
+      "name": "Esri",
+      "canonical_name": "Esri",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.esri.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-246",
+      "name": "Mapbox",
+      "canonical_name": "Mapbox",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.mapbox.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-247",
+      "name": "CARTO",
+      "canonical_name": "CARTO",
+      "country": "Mỹ/Tây Ban Nha",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://carto.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-248",
+      "name": "Planet Labs",
+      "canonical_name": "Planet Labs",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.planet.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-249",
+      "name": "Maxar Intelligence",
+      "canonical_name": "Maxar Intelligence",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.maxar.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-250",
+      "name": "HERE Technologies",
+      "canonical_name": "HERE Technologies",
+      "country": "Hà Lan",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.here.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-251",
+      "name": "TomTom",
+      "canonical_name": "TomTom",
+      "country": "Hà Lan",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.tomtom.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-252",
+      "name": "Nearmap",
+      "canonical_name": "Nearmap",
+      "country": "Úc",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.nearmap.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-253",
+      "name": "BlackSky",
+      "canonical_name": "BlackSky",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.blacksky.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-254",
+      "name": "ICEYE",
+      "canonical_name": "ICEYE",
+      "country": "Phần Lan",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.iceye.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-255",
+      "name": "Satellogic",
+      "canonical_name": "Satellogic",
+      "country": "Argentina/Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://satellogic.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-256",
+      "name": "Capella Space",
+      "canonical_name": "Capella Space",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.capellaspace.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-257",
+      "name": "Umbra",
+      "canonical_name": "Umbra",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://umbra.space",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-258",
+      "name": "HawkEye 360",
+      "canonical_name": "HawkEye 360",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.he360.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-259",
+      "name": "Precisely",
+      "canonical_name": "Precisely",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.precisely.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-260",
+      "name": "Safe Software",
+      "canonical_name": "Safe Software",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.safe.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-261",
+      "name": "SuperMap Software",
+      "canonical_name": "SuperMap Software",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.supermap.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-262",
+      "name": "Google Maps Platform / Google Earth",
+      "canonical_name": "Google Maps Platform / Google Earth",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://mapsplatform.google.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-263",
+      "name": "MapTiler",
+      "canonical_name": "MapTiler",
+      "country": "Thụy Sĩ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.maptiler.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-264",
+      "name": "Foursquare",
+      "canonical_name": "Foursquare",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://foursquare.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-265",
+      "name": "Mappls (C.E. Info Systems)",
+      "canonical_name": "Mappls (C.E. Info Systems)",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.mappls.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-266",
+      "name": "Fugro",
+      "canonical_name": "Fugro",
+      "country": "Hà Lan",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.fugro.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-267",
+      "name": "Woolpert",
+      "canonical_name": "Woolpert",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://woolpert.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-268",
+      "name": "NV5 Geospatial",
+      "canonical_name": "NV5 Geospatial",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.nv5.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-269",
+      "name": "Cyient",
+      "canonical_name": "Cyient",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.cyient.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-270",
+      "name": "RMSI",
+      "canonical_name": "RMSI",
+      "country": "Ấn Độ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "GIS"
+      ],
+      "services": "GIS, geospatial platform, bản đồ số, ảnh viễn thám, spatial analytics và location intelligence.",
+      "url": "https://www.rmsi.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-271",
+      "name": "Unity Technologies",
+      "canonical_name": "Unity Technologies",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://unity.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-272",
+      "name": "Magic Leap",
+      "canonical_name": "Magic Leap",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.magicleap.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-273",
+      "name": "Varjo",
+      "canonical_name": "Varjo",
+      "country": "Phần Lan",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://varjo.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-274",
+      "name": "HTC VIVE",
+      "canonical_name": "HTC VIVE",
+      "country": "Đài Loan",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.vive.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-275",
+      "name": "PICO",
+      "canonical_name": "PICO",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.picoxr.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-276",
+      "name": "Apple Spatial Computing",
+      "canonical_name": "Apple Spatial Computing",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.apple.com/apple-vision-pro",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-277",
+      "name": "Meta Quest",
+      "canonical_name": "Meta Quest",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.meta.com/quest",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-278",
+      "name": "Vuzix",
+      "canonical_name": "Vuzix",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.vuzix.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-279",
+      "name": "RealWear",
+      "canonical_name": "RealWear",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.realwear.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-280",
+      "name": "Rokid",
+      "canonical_name": "Rokid",
+      "country": "Trung Quốc",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://global.rokid.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-281",
+      "name": "Epson Moverio",
+      "canonical_name": "Epson Moverio",
+      "country": "Nhật Bản",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://epson.com/moverio",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-282",
+      "name": "TeamViewer Frontline",
+      "canonical_name": "TeamViewer Frontline",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.teamviewer.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-283",
+      "name": "Scope AR",
+      "canonical_name": "Scope AR",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.scopear.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-284",
+      "name": "Librestream",
+      "canonical_name": "Librestream",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://librestream.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-285",
+      "name": "Strivr",
+      "canonical_name": "Strivr",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.strivr.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-286",
+      "name": "Holomia Việt Nam",
+      "canonical_name": "Holomia Việt Nam",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "platform",
+      "categories": [
+        "VR",
+        "AR"
+      ],
+      "services": "VR/AR/XR, spatial computing, thiết bị và nền tảng trải nghiệm không gian số.",
+      "url": "https://www.holomia.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-287",
+      "name": "Kuula",
+      "canonical_name": "Kuula",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://kuula.co",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-288",
+      "name": "3DVista",
+      "canonical_name": "3DVista",
+      "country": "Tây Ban Nha",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://www.3dvista.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-289",
+      "name": "Pano2VR (Garden Gnome Software)",
+      "canonical_name": "Pano2VR (Garden Gnome Software)",
+      "country": "Áo",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://ggnome.com/pano2vr",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-290",
+      "name": "krpano",
+      "canonical_name": "krpano",
+      "country": "Áo",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://krpano.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-291",
+      "name": "Panoee",
+      "canonical_name": "Panoee",
+      "country": "Việt Nam/Mỹ",
+      "region": "vn",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://panoee.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-292",
+      "name": "Lapentor",
+      "canonical_name": "Lapentor",
+      "country": "Việt Nam",
+      "region": "vn",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://lapentor.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-293",
+      "name": "iStaging",
+      "canonical_name": "iStaging",
+      "country": "Đài Loan",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://www.istaging.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-294",
+      "name": "Roundme",
+      "canonical_name": "Roundme",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://roundme.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-295",
+      "name": "SeekBeak",
+      "canonical_name": "SeekBeak",
+      "country": "Canada",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://seekbeak.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-296",
+      "name": "Nodalview",
+      "canonical_name": "Nodalview",
+      "country": "Bỉ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://nodalview.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-297",
+      "name": "immoviewer",
+      "canonical_name": "immoviewer",
+      "country": "Đức",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://www.immoviewer.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-298",
+      "name": "TeliportMe",
+      "canonical_name": "TeliportMe",
+      "country": "Mỹ",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://teliportme.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-299",
+      "name": "RICOH360",
+      "canonical_name": "RICOH360",
+      "country": "Nhật Bản",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://www.ricoh360.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    },
+    {
+      "id": "list3d-300",
+      "name": "Giraffe360",
+      "canonical_name": "Giraffe360",
+      "country": "Anh",
+      "region": "int",
+      "entity_type": "platform",
+      "categories": [
+        "360"
+      ],
+      "services": "Nền tảng tạo, xuất bản và quản lý virtual tour 360°, panorama và trải nghiệm không gian tương tác.",
+      "url": "https://www.giraffe360.com",
+      "source_group": "curated-2026-09",
+      "verified": false
+    }
+  ]
+}
